@@ -4,4 +4,4 @@
 
 # Calibration
 For calibrating directly with Arduino IDE, please use Kamome_Calibration.ino. 
-For PySerial, please use Kamome_Calibration_PythonSerial and Kamome_Calibration_ArduinoSerial.
+For PySerial, please use Kamome_Calibration_PySerial and Kamome_Calibration_ArduinoSerial.
